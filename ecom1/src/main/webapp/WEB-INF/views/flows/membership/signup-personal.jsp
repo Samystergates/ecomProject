@@ -79,7 +79,7 @@
 							</div>
 							
 	<div class="form-group">
-				<sf:input type="hidden" path="role" value="USER" class="form-control"/> User 				
+				<sf:input type="hidden" path="role" value="USER" class="form-control"/> 				
 		</div>			
 
 							<div class="form-group">
